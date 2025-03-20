@@ -8,7 +8,7 @@
       "chipFamily": "ESP32-S2",
       "parts": [
         {
-          "path": "thethirdcreator/FluidNC-Controller-Updates/Bin/firmware.bin",
+          "path": "https://raw.githubusercontent.com/thethirdcreator/FluidNC-Controller-Updates/main/Bin/firmware.bin",
           "offset": 0
         }
       ]
