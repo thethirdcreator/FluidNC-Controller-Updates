@@ -7,9 +7,6 @@
     {
       "chipFamily": "ESP32-S2",
             "parts": [
-          { "path": "https://github.com/thethirdcreator/FluidNC-Controller-Updates/raw/refs/heads/main/Bin/bootloader.bin", "offset":4096},
-          { "path": "https://github.com/thethirdcreator/FluidNC-Controller-Updates/raw/refs/heads/main/Bin/partitions.bin", "offset":32768},
-          { "path": "https://github.com/thethirdcreator/FluidNC-Controller-Updates/raw/refs/heads/main/Bin/boot_app0.bin", "offset":57344},
           { "path": "https://github.com/thethirdcreator/FluidNC-Controller-Updates/raw/refs/heads/main/Bin/firmware.bin", "offset":65536}
         ]
     }
